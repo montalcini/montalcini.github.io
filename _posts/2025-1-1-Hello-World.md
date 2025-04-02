@@ -1,6 +1,15 @@
 ---
-layout: post
+layout: page
 title: Hello world
 ---
 
-Hello world
+Storehouse
+Apeiron
+Seine
+Yosemite
+Campanile
+Montara
+Faraday
+Operon
+Glean
+
